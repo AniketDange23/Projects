@@ -1,0 +1,99 @@
+/* CustomerComponent.css */
+
+.customer-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .customer-info h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+  }
+  
+  .customer-info .details {
+    margin-top: 20px;
+  }
+  
+  .customer-info .details p {
+    margin: 5px 0;
+  }
+
+  
+  /* ShoppingComponent.css */
+
+.shopping-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+   align-items: start;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .shopping-info h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+  }
+  
+  .shopping-info .details {
+    margin-top: 20px;
+  }
+  
+  .shopping-info .details p {
+    margin: 5px 0;
+  }
+  
+  .shopping-info .details ul {
+    margin: 5px 0;
+    padding-left: 20px;
+  }
+  
+  .shopping-info .details ul li {
+    list-style-type: none;
+  }
+
+  /* PaymentComponent.css */
+
+.payment-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .payment-info h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+  }
+  
+  .payment-info .details {
+    margin-top: 20px;
+  }
+  
+  .payment-info .details p {
+    margin: 5px 0;
+  }
+
+  /* DeliveredComponent.css */
+
+.delivered-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .delivered-info h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+  }
+  
+  .delivered-info .details {
+    margin-top: 20px;
+  }
+  
+  .delivered-info .details p {
+    margin: 5px 0;
+  }
+  
